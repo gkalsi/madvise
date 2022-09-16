@@ -3,5 +3,5 @@ Playing with mmap and madvise
 
 ## Usage:
 ```
- $ ./run
+ $ ./run.sh
 ```
